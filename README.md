@@ -33,8 +33,7 @@
 ### Доступные файлы проекта:  
 1) 1_Музыка_больших_городов.ipynb;  
 [Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github/Mursalka/Yandex_practicum/blob/main/1_Музыка_больших_городов.ipynb)
-2) 1_Музыка_больших_городов_презентация.pdf 
-[Ссылка на Презентацию](https://github.com/Mursalka/Yandex_practicum/blob/main/1_Музыка_больших_городов_презентация.pdf)
+2) [1_Музыка_больших_городов_презентация.pdf](https://github.com/Mursalka/Yandex_practicum/blob/main/1_Музыка_больших_городов_презентация.pdf)
 
 ### Библиотеки: pandas  
   
